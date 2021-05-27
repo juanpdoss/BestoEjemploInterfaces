@@ -1,0 +1,12 @@
+C:\Users\juanp\source\repos\RealTimeEstrategy\RealTimeEstrategy\bin\Debug\net5.0\RealTimeEstrategy.deps.json
+C:\Users\juanp\source\repos\RealTimeEstrategy\RealTimeEstrategy\bin\Debug\net5.0\RealTimeEstrategy.dll
+C:\Users\juanp\source\repos\RealTimeEstrategy\RealTimeEstrategy\bin\Debug\net5.0\ref\RealTimeEstrategy.dll
+C:\Users\juanp\source\repos\RealTimeEstrategy\RealTimeEstrategy\bin\Debug\net5.0\RealTimeEstrategy.pdb
+C:\Users\juanp\source\repos\RealTimeEstrategy\RealTimeEstrategy\obj\Debug\net5.0\RealTimeEstrategy.csprojAssemblyReference.cache
+C:\Users\juanp\source\repos\RealTimeEstrategy\RealTimeEstrategy\obj\Debug\net5.0\RealTimeEstrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\source\repos\RealTimeEstrategy\RealTimeEstrategy\obj\Debug\net5.0\RealTimeEstrategy.AssemblyInfoInputs.cache
+C:\Users\juanp\source\repos\RealTimeEstrategy\RealTimeEstrategy\obj\Debug\net5.0\RealTimeEstrategy.AssemblyInfo.cs
+C:\Users\juanp\source\repos\RealTimeEstrategy\RealTimeEstrategy\obj\Debug\net5.0\RealTimeEstrategy.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\RealTimeEstrategy\RealTimeEstrategy\obj\Debug\net5.0\RealTimeEstrategy.dll
+C:\Users\juanp\source\repos\RealTimeEstrategy\RealTimeEstrategy\obj\Debug\net5.0\ref\RealTimeEstrategy.dll
+C:\Users\juanp\source\repos\RealTimeEstrategy\RealTimeEstrategy\obj\Debug\net5.0\RealTimeEstrategy.pdb
